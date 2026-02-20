@@ -2,6 +2,9 @@
 
 A simple React app for managing grocery items with add, edit, remove, and quick suggestion features.
 
+## Live Link  
+https://grocery-list-project03.netlify.app/
+
 ## Description
 
 This project is a clean and beginner-friendly React application.
